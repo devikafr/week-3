@@ -29,13 +29,13 @@ Et si vous faites ````ls -a```` le dossier ````week-3```` ne contient que les fi
 Maintenant, vous allez lier votre répertoire ````week-3```` situé sur votre ordinateur avec le répertoire distant ````week-3```` situé sur le compte des Women On Rails. Le lien sera appelé ````upstream````. 
 Pour cela, faites la commande suivante :
 ``` Console
-git remote add upstream git@github.com:women-on-rails/wow-curiosites-1.git
+git remote add upstream git@github.com:women-on-rails/week-3.git
 ````
 Cela va vous permettre de récupérer facilement le code existant nécessaire pour la suite de l'exercice. 
 
 Pour récupérer ce code, faites la commande suivante :
 ``` Console
-git pull upstream week-3_beginning
+git pull upstream master
 ````
 
 Cela remplit le dossier ````week-3```` sur votre ordinateur avec tout ce que contient le projet ````week-3```` sur le compte Github des Women On Rails. 
