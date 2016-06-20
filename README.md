@@ -45,6 +45,8 @@ Vous voila prête pour l'exercice !
 
 # Étape 2 : Lire l'exercice et se lancer
 
+[Retrouvez les slides du cours] (http://slides.com/women_on_rails/week-3_rails_et_architecture_mvc)
+
 Ouvrez votre projet week-3 avec l'éditeur que vous utilisez. 
 Si vous utilisez SublimeText, vous pouvez faire ````subl .```` dans la console pour ouvrir directement votre projet. 
 (````subl```` c'est SublimeText, l'espace c'est parce que la commande est finie, et le point c'est pour dire "ouvre dans Sublime Text tout le dossier dans lequel je suis, en un coup").
